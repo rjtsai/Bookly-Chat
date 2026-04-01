@@ -2,6 +2,16 @@
 
 AI-powered customer support agent for Bookly, a fictional online bookstore. Built with FastAPI and the OpenAI API, it demonstrates tool-calling, deterministic business logic, and real API orchestration (Google Books) in a single conversational agent.
 
+
+
+https://github.com/user-attachments/assets/3736899f-2f9e-4916-9020-2641495ff1fa
+
+
+
+https://github.com/user-attachments/assets/c72f6cfe-4280-481e-826d-e28b2b8d3056
+
+
+
 ## Prerequisites
 
 - Python 3.9+
